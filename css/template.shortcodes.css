@@ -3253,6 +3253,7 @@ ul.sc_list_style_iconed {
 	border-style: solid;
 	border-width: 5px;
 	border-color: #7fd4a7;
+	width: 280px;
 }
 .sc_price_block .sc_price_block_title {
 	position:relative;
