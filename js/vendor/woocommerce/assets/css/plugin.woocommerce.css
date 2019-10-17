@@ -247,6 +247,10 @@
 .woocommerce ul.products li.product a:hover img, .woocommerce-page ul.products li.product a:hover img {
 	margin: 0;
 	box-shadow:none;
+	width: 500px;
+    height: auto;
+    display: inline;
+    padding-left: 250px;
 }
 .woocommerce ul.products li.product .post_featured .hover_icon:before, .woocommerce-page ul.products li.product .post_featured .hover_icon:before {
 	font-size:3em;
