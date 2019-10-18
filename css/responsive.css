@@ -3306,7 +3306,7 @@ Very common low res
     }
     /* RevSlider */
     .xs_img {
-        width: 60px !important;
+        /* width: 60px !important; */
         height: 60px !important;
     }
     .xs_text {
