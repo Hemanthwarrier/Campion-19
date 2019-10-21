@@ -3174,6 +3174,15 @@ Very common low res
         width: 46%;
     }
    
+	.woocommerce ul.products li.product a img, .woocommerce-page ul.products li.product a img, .woocommerce ul.products li.product a:hover img, .woocommerce-page ul.products li.product a:hover img {
+		margin: 0;
+		box-shadow: none;
+		width: 500px;
+		height: auto;
+		display: inline;
+		padding-left: 0px;
+	}
+
     .tribe-events-nav-previous a {
         margin: 0;
     }
@@ -3306,7 +3315,7 @@ Very common low res
     }
     /* RevSlider */
     .xs_img {
-        /* width: 60px !important; */
+        width: auto !important;
         height: 60px !important;
     }
     .xs_text {
